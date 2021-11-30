@@ -1,0 +1,16 @@
+.lead__caption {
+  margin: 0;
+  align-self: start;
+}
+
+@media all and (max-width: 1023px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .lead__caption {
+    margin-left: 16px;
+  }
+}

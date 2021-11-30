@@ -1,0 +1,23 @@
+.lead__intro {
+  max-width: 984px;
+  min-height: 429px;
+  padding-top: 92px;
+  align-self: start;
+}
+
+@media all and (max-width: 1023px) {
+  .lead__intro {
+    max-width: 720px;
+    padding-top: 88px;
+    margin-left: 24px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .lead__intro {
+    max-width: 288px;
+    min-height: 754px;
+    padding-top: 64px;
+    margin: 0 auto;
+  }
+}
