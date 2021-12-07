@@ -17,5 +17,3 @@
  
 
 Планы по доработке: реализовать сайт интерактивным.
-
-Ссылка на веб страницу - https://zvzyung.github.io/project-russian-travel/index.html
