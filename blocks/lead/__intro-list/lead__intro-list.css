@@ -1,12 +1,7 @@
 .lead__intro-list {
   max-width: 690px;
-  min-height: 90px;
   margin: 0;
   padding: 0;
-  font-size: 12px;
-  line-height: 18px;
-  font-weight: bold;
-  list-style: none;
 }
 
 @media all and (max-width: 1023px) {

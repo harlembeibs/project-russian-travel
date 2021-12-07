@@ -1,7 +1,8 @@
 .footer__container {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: start;
+  padding-bottom: 24px;
 }
 
 @media all and (max-width: 767px) {

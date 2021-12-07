@@ -1,9 +1,7 @@
 .lead {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 984px;
-  min-height: 1005px;
+  display: grid;
+  grid-template-columns: minmax(320px, 984px);
+  grid-template-rows: repeat(5, min-content);
   margin: 0 auto;
   padding-top: 56px;
 }
