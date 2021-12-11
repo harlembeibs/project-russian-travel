@@ -19,7 +19,7 @@
 @import url(../blocks/lead/__intro/lead__intro.css);
 @import url(../blocks/lead/__intro-list/lead__intro-list.css);
 @import url(../blocks/lead/__intro-list-item/lead__intro-list-item.css);
-@import url(../blocks/lead/__intro-list-item/_weight/lead__intro-list-item_weight_normal.css);
+@import url(../blocks/lead/__intro-list-item-number/lead__intro-list-item-number.css);
 @import url(../blocks/lead/__intro-text/lead__intro-text.css);
 @import url(../blocks/lead/__intro-title/lead__intro-title.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
@@ -43,7 +43,6 @@
 @import url(../blocks/cover/__title/cover__title.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__container/footer__container.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__nav/footer__nav.css);

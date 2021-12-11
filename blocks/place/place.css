@@ -23,7 +23,7 @@
 @media all and (max-width: 1023px) {
   .place {
     grid-template-columns: 340px 1fr;
-    grid-template-rows: 1fr minmax(340px, 466px);
+    grid-template-rows: 1fr min-content;
     column-gap: 28px;
     max-width: 720px;
   }
