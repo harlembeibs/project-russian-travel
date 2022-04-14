@@ -8,5 +8,5 @@
  
 Планы по доработке: реализовать сайт интерактивным.
 
-Ссылка на веб страницу - https://zvzyung.harlembeibs.io/project-russian-travel/index.html
+Ссылка на веб страницу - https://harlembeibs.github.io/project-russian-travel/index.html
 
